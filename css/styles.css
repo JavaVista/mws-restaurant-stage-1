@@ -288,3 +288,35 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
+
+/* ====================== Media Queries ====================== */
+
+@media only screen and (max-width: 426px) {
+  .filter-options  {
+    display: flex;
+    flex-direction: column
+  }
+  #breadcrumb, h1, h2 {
+    text-align: center;
+  }
+  #restaurant-container, #reviews-container,  #restaurants-list {
+    padding: 10px;
+  }
+  #restaurants-list li {
+    text-align: inherit;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  #restaurants-list li {
+    flex-basis: 35%;
+  }
+
+  @media screen and (min-width: 900px) {
+    #restaurants-list li, .filter-options  {
+      flex-basis: 30%;
+    }
+    .filter-options  {
+      display: flex;
+    }
+}
