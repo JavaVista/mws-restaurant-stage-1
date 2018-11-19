@@ -7,3 +7,17 @@ js/map_key.js
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System Files
+Thumbs.db
