@@ -23,7 +23,7 @@ li {
   color: #333;
 }
 a {
-  color: #7f0000;
+  color: #FF9494;
   text-decoration: none;
 }
 a:hover,
@@ -67,11 +67,12 @@ section {
 #footer {
   background-color: #444;
   color: #DBDBDB;
-  font-size: 8pt;
+  font-size: 9pt;
   letter-spacing: 1px;
   padding: 25px;
   text-align: center;
   text-transform: uppercase;
+  font-weight: bold;
 }
 /* ====================== Navigation ====================== */
 nav {
