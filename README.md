@@ -5,6 +5,16 @@
 ---
 > **NOTE:** These are my updated README instructions and work information about the project.
 ---
+![Restaurant Reviews App Screenshot](RestaurantReviewsApp.png)
+
+## App Features
+
+* View restaurants in New York City
+* Filter by neighborhoods and cuisines
+* View Restaurant details
+* View pages already loaded when offline
+* View pages across multiple viewports and devices
+* Use app with screen reader or keyboard-only
 
 ---
 > **NOTE:** Original README instructions notes are below.
