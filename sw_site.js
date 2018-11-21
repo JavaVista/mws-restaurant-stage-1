@@ -1,4 +1,4 @@
-const cacheID = 'static-v1';
+const cacheID = 'static-v2';
 
 /**
  * Call Install event.

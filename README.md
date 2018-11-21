@@ -5,7 +5,19 @@
 ---
 > **NOTE:** These are my updated README instructions and work information about the project.
 ---
+Converted a static webpage to a mobile-ready web application.
+
+## Features added to project
+
+* Responsiveness
+* Accessibility - Lighthouse v2 Accessibility Score of 89
+* Offline experience
+
 ![Restaurant Reviews App Screenshot](RestaurantReviewsApp.png)
+
+## Installation/Getting Started
+
+Clone the project from Github. Using VSCode download and run the Live Server extension. Open your browser and visit site: http://localhost:5500.
 
 ## App Features
 
@@ -15,6 +27,10 @@
 * View pages already loaded when offline
 * View pages across multiple viewports and devices
 * Use app with screen reader or keyboard-only
+
+## Resources
+
+* [YouTube](https://www.youtube.com/watch?v=ksXwaWHCW6k&t=0s&list=PLfYR7oYhwToYr0uQXVcs3Mifq_5lmtpkt&index=35) - Intro To Service Workers & Caching
 
 ---
 > **NOTE:** Original README instructions notes are below.

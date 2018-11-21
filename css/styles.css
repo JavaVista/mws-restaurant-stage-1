@@ -307,12 +307,11 @@ nav h1 a {
     text-align: inherit;
   }
 }
-
 @media screen and (min-width: 600px) {
   #restaurants-list li {
     flex-basis: 35%;
   }
-
+}
   @media screen and (min-width: 900px) {
     #restaurants-list li, .filter-options  {
       flex-basis: 30%;
