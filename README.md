@@ -17,7 +17,13 @@ Converted a static webpage to a mobile-ready web application.
 
 ## Installation/Getting Started
 
-Clone the project from Github. Using VSCode download and run the Live Server extension. Open your browser and visit site: http://localhost:5500.
+Clone the project from Github. This repository uses leafletjs with Mapbox and it requires a [Mapbox](https://www.mapbox.com/) Public Token Key. Mapbox is free to use, and does not require any payment information.
+
+Create a `map_key.js` file in the root of the project and add the following code:
+
+`const MAPBOX_API_KEY = '<type your MAPBOX API KEY HERE>';`
+
+Using VSCode download and run the Live Server extension. Open your browser and visit site: http://localhost:5500.
 
 ## App Features
 
